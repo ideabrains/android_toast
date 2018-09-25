@@ -1,2 +1,2 @@
-# android_toast
+# Android_Toast
 Tutorial toast in android
